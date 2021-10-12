@@ -170,7 +170,6 @@ header{
 @media screen and (min-width: 800px){
   nav{
     padding: 30px 0;
-    position: right;
     text-align: right;
   }
 
@@ -188,39 +187,6 @@ header{
    grid-column: 2 / span 2 ;
  }
  
-  /* .about-image{
-  
-  }
-
-  .about{
-    
-  }
-
-  .method-image{
-    
-  }
-
-  .method{
-   
-  }
-
-  .clients-image{
-    
-  }
-
-  .clients{
-    
-  }
-
-  .contact-image{
-    
-  }
-
-  .contact{
-    
-  }
-
-} */
 
 
 /** Code for prefers reduced motion **/
